@@ -1,0 +1,10 @@
+.sidebar {
+  float: right;
+  background-color: tan;
+  border: 5px solid;
+  text-align: center;
+  margin:     0px 0 0 50px;
+}
+img {
+float:right;
+}
