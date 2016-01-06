@@ -3,8 +3,10 @@
   background-color: tan;
   border: 5px solid;
   text-align: center;
-  margin:     0px 0 0 50px;
+  margin: 0px 0 0 50px;
+  padding: 15px;
 }
 img {
 float:right;
+padding: 10px;
 }
